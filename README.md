@@ -17,27 +17,7 @@ This repository contains a Streamlit-based web application that analyzes stock m
 - Compare algorithm performance metrics.
 - Upload custom CSV files for analysis.
 
-## Getting Started
-
-### Prerequisites
-
-To run this project, ensure you have the following installed:
-
-- Python 3.7+
-- Streamlit
-- Pandas
-- NumPy
-- Plotly
-- Matplotlib
-- Seaborn
-
-You can install the required packages using:
-
-```bash
-pip install streamlit pandas numpy plotly matplotlib seaborn
-```
-
-### Running the Application
+## Running the Application
 
 1. Clone the repository:
 
